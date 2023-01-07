@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-variant-caps: small-caps;
+}
+h3 {
+  text-align: left;
+  font-size: 10px;
+}
+p {
+  font-size: 20px;
+}
+ul li {
+  display: inline-block;
+  font-size: 20px;
+}
